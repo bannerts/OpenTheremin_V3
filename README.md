@@ -1,6 +1,8 @@
 SAB on Nov 6, 2020 - Attempted to create a fork/branch with some updated wavetables as seen in the png, pdf, ods, svg files included.  
 
-https://github.com/bannerts/OpenTheremin_V3/blob/bannerts-updated-Wavetables/Sinusiod%20Plots.pdf
+[image](https://github.com/bannerts/OpenTheremin_V3/blob/bannerts-updated-Wavetables/Sinusiod%20Plots.pdf)
+
+[Image](https://github.com/bannerts/OpenTheremin_V3/blob/bannerts-updated-Wavetables/SAB_Theramin%20Waveform%20Data.png)
 
 ----------------------------
 ## Open.Theremin V3.1 control software
